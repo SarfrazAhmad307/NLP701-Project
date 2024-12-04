@@ -1,6 +1,6 @@
 # Peptide Sequence Classification with LLM-CNN Pipeline
 
-![Pipeline](workflow_final.png)
+![Pipeline](pipeline.png)
 
 This repository contains the code and dataset used to classify peptide sequences using a multi-model pipeline that combines Large Language Models (LLMs) and Convolutional Neural Networks (CNNs). The pipeline also incorporates a Logistic Regression (LR) meta-classifier to produce final classification predictions.
 
